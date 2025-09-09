@@ -1,6 +1,4 @@
-<div align="left">
-  <img height="250" src="https://i.imgur.com/NiGduC8.png"  />
-</div>
+
 
 <h1 align="center">hey there 👋, I'm Alireza</h1>
 
