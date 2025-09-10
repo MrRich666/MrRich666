@@ -40,14 +40,15 @@ A Back-End Developer with a passion for building robust and efficient server-sid
 
 ---
 
+### ⚡ My GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRich666&bg_color=0d1117&color=ffffff&line=00a2fe&point=a2a2a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
 ### 🐍 Here is a snake eating my contributions!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
----
-
-### ⚡ My GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRich666&bg_color=0d1117&color=ffffff&line=00a2fe&point=a2a2a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
