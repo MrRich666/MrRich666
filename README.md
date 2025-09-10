@@ -4,7 +4,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 
 A Back-End Developer with a passion for building robust and efficient server-side applications.
 
