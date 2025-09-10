@@ -12,7 +12,7 @@ A Back-End Developer with a passion for building robust and efficient server-sid
 💬 I'm excited about growing as a developer and am open to new opportunities. Let's connect by gmail : ayyoub.mahdavifar@gmail.com
 
 🛠 Language and tools
-<div align="left">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="40" alt="fastapi logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
