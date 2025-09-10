@@ -48,11 +48,6 @@ A Back-End Developer with a passion for building robust and efficient server-sid
 
 ---
 
-### ⚡ My Recent GitHub Activity
-<!-- BLOG-POST-LIST:START -->
-- [MrRich666 pushed MrRich666](https://github.com/MrRich666/MrRich666/compare/39f3716122...8391e144d7)
-- [MrRich666 pushed MrRich666](https://github.com/MrRich666/MrRich666/compare/763002c9c2...39f3716122)
-- [MrRich666 pushed MrRich666](https://github.com/MrRich666/MrRich666/compare/62eebd5fec...763002c9c2)
-- [MrRich666 pushed MrRich666](https://github.com/MrRich666/MrRich666/compare/79d1264bd9...62eebd5fec)
-- [MrRich666 pushed MrRich666](https://github.com/MrRich666/MrRich666/compare/93ee2ce20d...79d1264bd9)
-<!-- BLOG-POST-LIST:END -->
+### ⚡ My GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRich666&bg_color=0d1117&color=ffffff&line=00a2fe&point=a2a2a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
